@@ -1,0 +1,7 @@
+C:\Users\adhik\source\repos\Assignment AD\bin\Debug\Assignment AD.exe.config
+C:\Users\adhik\source\repos\Assignment AD\bin\Debug\Assignment AD.exe
+C:\Users\adhik\source\repos\Assignment AD\bin\Debug\Assignment AD.pdb
+C:\Users\adhik\source\repos\Assignment AD\obj\Debug\Assignment AD.csproj.AssemblyReference.cache
+C:\Users\adhik\source\repos\Assignment AD\obj\Debug\Assignment AD.csproj.CoreCompileInputs.cache
+C:\Users\adhik\source\repos\Assignment AD\obj\Debug\Assignment AD.exe
+C:\Users\adhik\source\repos\Assignment AD\obj\Debug\Assignment AD.pdb
